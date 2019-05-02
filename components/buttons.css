@@ -13,30 +13,35 @@
 
 
 .btn-go {
-    color: rgb(209, 6, 6);
-    border: 2px solid rgb(209, 6, 6);
-    border-radius: 20px;
+    color: white;
+    background-color: rgb(83, 185, 15);
+    border-radius: 3px;
     padding: 6px 15px;
     font-weight: normal;
 }
 .btn-go:hover {
     text-decoration: none;
-    color: rgb(145, 20, 20);
-    border: 2px solid rgb(145, 20, 20);
+    color: white;
+    background-color: rgb(70, 165, 7);
+    box-shadow: 2px 3px 2px rgb(182, 182, 182);
+    font-weight: bold;
 }
 
 
 .btn-slow {
-    color: rgb(209, 6, 6);
-    border: 2px solid rgb(209, 6, 6);
-    border-radius: 20px;
+    color: rgb(1, 79, 124);
+    background-color: rgb(253, 250, 43);
+    border: 1px solid rgb(1, 79, 124);
     padding: 6px 15px;
     font-weight: normal;
 }
 .btn-slow:hover {
+    padding: 10px 20px;
+    font-size: 2em;
     text-decoration: none;
-    color: rgb(145, 20, 20);
-    border: 2px solid rgb(145, 20, 20);
+    background-color: 2px solid rgb(253, 250, 43);
+    color: rgb(1, 79, 124);
+    border: 2px solid rgb(1, 79, 124);
 }
 
 
