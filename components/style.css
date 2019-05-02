@@ -1,0 +1,12 @@
+@import url("buttons.css");
+@import url("https://fonts.googleapis.com/css?family=Artifika|Oxygen");
+
+
+
+body {
+    font-family: 'Oxygen', sans-serif;
+}
+
+h2 {
+    font-family: 'Artifika', serif;
+}
