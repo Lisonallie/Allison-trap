@@ -1,5 +1,21 @@
-.blueface .submit {
-    border: 5px solid green;
-    font-size: 18px;
-    padding: 10px 15px;
+.box {
+    border: 2px solid rgb(148, 120, 125)
 }
+a.submit, .cancel {
+    text-decoration: none;
+    border-radius: 10px;;
+    color:white;
+    background-color: rgb(147, 174, 199);
+    font-size: 14px;
+    padding: 5px 10px;
+  }
+  a.submit:hover {
+      text-decoration: none;
+      background-color: rgb(89, 111, 131);
+      color: white;
+  }
+  a.cancel:hover {
+      color: white;
+      text-decoration: none;
+      background-color: rgb(155, 108, 116);
+  } 

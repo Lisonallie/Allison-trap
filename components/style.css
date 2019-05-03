@@ -2,6 +2,7 @@
 @import url("https://fonts.googleapis.com/css?family=Artifika|Oxygen");
 @import url("card.css");
 @import url("nav.css");
+@import url("form.css");
 
 
 
@@ -11,11 +12,4 @@ body {
 
 h2 {
     font-family: 'Artifika', serif;
-}
-
-
-button .submit {
-    border: 5px solid green;
-    font-size: 18px;
-    padding: 10px 15px;
 }
