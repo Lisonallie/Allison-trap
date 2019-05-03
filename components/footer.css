@@ -8,8 +8,10 @@ p.footie {
 a.left {
     text-decoration: none;
     color: white;
+    float: left;
 }
 a.right {
     text-decoration: none;
     color: white;
+    float: right;
 }

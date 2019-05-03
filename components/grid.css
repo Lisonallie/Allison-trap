@@ -1,0 +1,20 @@
+.grid-container {
+    margin: 10px;
+}
+.grid-row {
+    display: grid;
+    grid-template-columns: repeat(7, 1fr);
+    grid-template-rows: auto;
+}
+.grid-left {
+    grid-column: 1 / span 2;
+}
+.grid-right {
+    grid-column: 3 / span 2;
+}
+.grid-center {
+    grid-column: 5 / span 3;
+}
+.grid-all {
+    grid-column: 1 / 8;
+}    

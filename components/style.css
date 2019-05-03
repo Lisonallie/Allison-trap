@@ -4,9 +4,11 @@
 @import url("nav.css");
 @import url("form.css");
 @import url("footer.css");
+@import url("grid.css");
 
-
-
+* {
+    text-decoration: none;
+}
 body {
     font-family: 'Oxygen', sans-serif;
 }
