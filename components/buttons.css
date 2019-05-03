@@ -46,42 +46,48 @@
 
 
 .btn-small {
-    color: rgb(209, 6, 6);
-    border: 2px solid rgb(209, 6, 6);
+    color: rgb(26, 131, 126);
+    border: 2px solid rgb(82, 229, 255);
     border-radius: 20px;
-    padding: 6px 15px;
+    padding: 2px 8px;
     font-weight: normal;
+    font-size: 12px;
 }
 .btn-small:hover {
     text-decoration: none;
-    color: rgb(145, 20, 20);
-    border: 2px solid rgb(145, 20, 20);
+    color: rgb(4, 87, 83);
+    border: 2px solid rgb(82, 229, 255);
 }
 
 
 .btn-medium {
-    color: rgb(209, 6, 6);
-    border: 2px solid rgb(209, 6, 6);
+    color: rgb(160, 93, 124);
+    background-color: rgb(204, 166, 226);
     border-radius: 20px;
     padding: 6px 15px;
     font-weight: normal;
 }
 .btn-medium:hover {
     text-decoration: none;
-    color: rgb(145, 20, 20);
-    border: 2px solid rgb(145, 20, 20);
+    color: rgb(221, 154, 185);
+    background-color: rgb(145, 99, 172);
 }
 
 
 .btn-large {
-    color: rgb(209, 6, 6);
-    border: 2px solid rgb(209, 6, 6);
+    opacity: 0.6;
+    font-size: 25px;
+    color: rgb(255, 234, 118);
+    background-color: rgb(226, 167, 38);
+    border: 2px solid rgb(209, 104, 6);
     border-radius: 20px;
-    padding: 6px 15px;
+    padding: 10px 21px;
     font-weight: normal
 }
 .btn-large:hover {
+    opacity: 1;
     text-decoration: none;
-    color: rgb(145, 20, 20);
-    border: 2px solid rgb(145, 20, 20);
+    color: rgb(255, 234, 118);
+    background-color: rgb(226, 167, 38);
+    border: 2px solid rgb(209, 104, 6);
 }
