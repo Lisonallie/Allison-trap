@@ -12,3 +12,10 @@ body {
 h2 {
     font-family: 'Artifika', serif;
 }
+
+
+button .submit {
+    border: 5px solid green;
+    font-size: 18px;
+    padding: 10px 15px;
+}

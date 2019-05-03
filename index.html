@@ -11,7 +11,7 @@
     <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"
         integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM"
         crossorigin="anonymous"></script>
-    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.1.0/css/font-awesome.min.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
     <link rel="stylesheet" href="components/style.css">
     <title>My Own Framework</title>
 </head>
@@ -50,6 +50,25 @@
             <a href="#four">FOUR</a>
           </div>
 
+        <h2>Form Design</h2>
+       
+        <div class="container">
+            <label for="name"><b>Welcome</b></label>
+            <input type="text" placeholder="Enter Username" name="name" required>
+        
+            <label for="pwd"><b>Secret Password</b></label>
+            <input type="password" placeholder="Enter Password" name="pwd" required>
+        
+            <button type="submit">Submit Info</button>
+            <label>
+              <input type="checkbox" checked="checked" name="remember"> Remember me
+            </label>
+          </div>
+        
+          <div class="container" style="background-color:#f1f1f1">
+            <button type="button" class="cancelbtn">Chicken Out</button>
+            <span class="psw">Forgot <a href="#">password?</a></span>
+          </div>
 
         <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js"
             integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo"
