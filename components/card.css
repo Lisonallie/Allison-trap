@@ -1,0 +1,19 @@
+.card {
+    height: 250px;
+    width: auto;
+    color:rgb(57, 66, 85);
+    background-size: cover;
+    position: relative;
+}
+.card-category {
+    text-align: center;
+    font-size: 18px;
+}
+.card-description {
+    text-align: center;
+    font-size: 14px;
+}
+.btn-medium {
+    display: inline;
+    margin: auto;
+}
