@@ -1,5 +1,18 @@
-.box {
-    border: 2px solid rgb(148, 120, 125)
+.outside {
+    border: 3px solid rgb(194, 147, 155);
+    padding: 10px 10px;
+    display: inline-block;
+}
+input {
+    border: 2px solid rgb(148, 120, 125);
+    outline: none;
+}
+input:focus {
+    border: 4px dashed rgb(148, 120, 125);
+}
+input.pwd {
+    margin-top: 15px;
+    margin-bottom: 10px;
 }
 a.submit, .cancel {
     text-decoration: none;
@@ -13,9 +26,11 @@ a.submit, .cancel {
       text-decoration: none;
       background-color: rgb(89, 111, 131);
       color: white;
+      cursor: pointer;
   }
   a.cancel:hover {
       color: white;
       text-decoration: none;
       background-color: rgb(155, 108, 116);
+      cursor: pointer;
   } 
