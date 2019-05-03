@@ -1,0 +1,15 @@
+.foot {
+    color: white;
+    background-color: rgb(82, 124, 86);
+}
+p.footie {
+    text-align: center;
+}
+a.left {
+    text-decoration: none;
+    color: white;
+}
+a.right {
+    text-decoration: none;
+    color: white;
+}
