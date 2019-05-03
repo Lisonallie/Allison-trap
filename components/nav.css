@@ -1,0 +1,25 @@
+.nav {
+    background-color: rgb(95, 93, 107);
+    overflow: hidden;
+    text-align: center;
+}
+.nav a {
+    margin-left: auto;
+    margin-right: auto;
+    text-decoration: none;
+    padding: 10px 13px;
+    font-size: 15px;
+    color:white;
+}
+.nav a:hover {
+    background-color: rgb(37, 36, 43);
+}
+.nav a:active {
+    background-color: rgb(168, 165, 185);
+    color: rgb(95, 93, 107);
+}
+a.logo {
+    position: fixed;
+    margin-left: 47%;
+    margin-right: 45%;
+}
