@@ -1,6 +1,8 @@
 .foot {
     color: white;
     background-color: rgb(82, 124, 86);
+    min-height: 10px;
+    overflow: hidden;
 }
 p.footie {
     text-align: center;

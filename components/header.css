@@ -1,0 +1,23 @@
+.head {
+    font-family: 'Artifika', serif;
+}
+h1 {
+    background-color: rgb(148, 148, 223);
+    color: white;
+}
+h2 {
+    padding: 1px;
+}
+h3 {
+    color: rgb(86, 141, 86);
+}
+h4 {
+    box-shadow: 5px 5px 5px;
+}
+h5 {
+    font-variant-caps: all-small-caps;
+}
+h6 {
+    color: rgb(212, 173, 173);
+    background-color:rgb(145, 137, 123);
+}
