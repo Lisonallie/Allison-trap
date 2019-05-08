@@ -1,17 +1,17 @@
 
 # Framework
 
-This is my own framework. I kept it simple because I am new to all of the elements of this project but I am learning more every day. I added 6 elements in addition to having Buttons, Grid layout, and a Form design:
-  * Navigation Bar
-  * Card
-  * Header
-  * Blockquote
-  * Code block
-  * Footer
+This is my own framework. I kept it simple because I am new to all of the elements of this project but I am learning more every day. I added 6 elements in addition to having Buttons, Grid layout, and Form design:
+1. Navigation Bar
+2. Card
+3. Header
+4. Blockquote
+5. Code block
+6. Footer
 
 ### Navbar
 
-This navigation bar has a professional and sleek design with a slate-grey-blue background color and white text that can be used in many settings. I chose to place the 'LOGO' in the center so it is the main focal point of each navbar. The default navbar design today normally has the logo in the top left and menu options to the right as a default. I wanted to create a symmetrical design and try something different.
+This navigation bar has a professional and sleek design with a slate-grey-blue background color and white text that can be used in many settings. I chose to place the **LOGO** in the center so it is the main focal point of each navbar. The default navbar design today normally has the logo in the top left and menu options to the right as a default. I wanted to create a symmetrical design and try something different.
 
 ### Card
 
@@ -23,7 +23,7 @@ I wanted to create some unique-looking styles for headers that would stand out. 
 
 ### Blockquote
 
-I wanted to design a blockquote that would easily stand out from the page. In one of my earlier assignments when I was learning all the elements still, I created a blockquote with a border and the instructions said that it looked bad in the initial placement of CSS and told us how to change it to make it look nice. Therefore, I thought "Why not make the nice-looking quote the default?".
+I wanted to design a blockquote that would easily stand out from the page. In one of my earlier assignments when I was learning all the elements still, I created a blockquote with a border and the instructions said that it looked ~~ugly~~bad in the initial placement of CSS and told us how to change it to make it look nice. Therefore, I thought "Why not make the nice-looking quote the default?".
 
 ### Code Block
 
