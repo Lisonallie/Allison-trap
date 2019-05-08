@@ -51,3 +51,41 @@ Using this system is fairly straightforward as I have a 6x6 column setup with un
 
 The navbar places your logo in the middle and links to content on either side, maintaining a symmetrical and professional style.
 
+### Buttons
+
+`.btn-stop` Normal: rounded circular button with red 2px border and transparent background. 
+Hover: red color of all borders and text becomes scarlet red (darker).
+`.btn-go` Normal: slightly rounded corners, green background, light-weight white text. 
+Hover: small grey drop shadow to the right and bold font.
+`.btn-slow` Normal: square, dark blue border, yellow background, dark blue text. 
+Hover: padding grows from 6x15 to 10x20.
+`.btn-small` Normal: very small text button, light blue border, dark blue text, transparent background. 
+Hover: font color becomes dark blue.
+`.btn-medium` Normal: circular button, lavender background, muted pink text. 
+Hover: background becomes darker purple and text becomes a slightly lighter pink.
+`.btn-large` Normal: rounded corners, orange border, light orange background, off-white text. 
+Hover: text color changes to yellow and background becomes darker shade of orange.
+
+### Card
+
+`.card` Makes a card with a max height of 250px that adjusts to the size of the column-area. The classes `.card-category` and `.card-description` indicate the head area of the card and the content of the card, respectively. All content is centered.
+
+### Form
+
+`.outside` Indicates the dimensions of the input form box. There are two input fields for the standard Username and Password and a Submit and Nevermind button. Upon clicking, the border of the input fields becomes dashed.
+
+### Headers
+
+Here the framework offers a variety of different effects as default headers. h1 provides a periwinkle background with white text. h2 the text is changed to Artifika. h3 changes the font color to a light green. h4 has a box shadow to the right and a slight blur. h5 sets the text in small caps. h6 sets a grey background with pink text.
+
+### Blockquote
+
+Blockquote places a colored 2px border on the left and bottom with a padding of 10px.
+
+### Code
+
+Keeps the default font and sets a dark grey background.
+
+### Footer
+
+The links, which are a given in footers, are placed to the sides where they are noticeable but not overbearing, and the company has space to write a 'farewell' or whatever they want in the remaining space. There is a default background of seagreen. The text color is white.
