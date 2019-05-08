@@ -11,6 +11,7 @@
 .grid-right {
     grid-column: 7 / span 6;
     padding: 3px;
+    text-align: center;
 }
 .grid-all {
     grid-column: 1 / 13;
