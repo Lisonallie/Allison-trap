@@ -43,7 +43,7 @@ The footer design of my framework is made to let whichever company it concerns d
 Using this system is fairly straightforward as I have a 6x6 column setup with unlimited row choice. I eliminated the center section because it didn't end up condusive to the design. So I tried something different and made the grid simple.
 
 `.grid-row` This defines where a grid row should start. THis grid creates 12 columns, the height of the rows adapt to the content within, and they have a padding of 3px.
-`.grid-right` This defines where content in a row should be placed. `.grid-right` spans 6 columns starting from the 7th column of your row.
+`.grid-right` This defines where content in a row should be placed. `.grid-right` spans 6 columns starting from the 7th column of your row and is center-aligned.
 `.grid-left` spans 6 columns starting from the left of your row.
 `.grid-all` uses the entire width of the grid.
 
