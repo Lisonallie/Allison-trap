@@ -35,6 +35,19 @@ Every website has their own aesthetic for how they want a code block to stand ou
 
 The footer design of my framework is made to let whichever company it concerns do more. Usually a footer is all links to social media or other platforms. The footer is the last content a user sees when they finish scrolling a page. I thought it would be nice if the company had space to put a message for the visitors to their website. The links, which are a given in footers, are placed to the sides where they are noticeable but not overbearing, and the company has space to write a 'farewell' or whatever they want in the remaining space.
 
-##### Using My Framework's Grid System
+
+## How to Use My Framework
+
+### Grid System
 
 Using this system is fairly straightforward as I have a 6x6 column setup with unlimited row choice. I eliminated the center section because it didn't end up condusive to the design. So I tried something different and made the grid simple.
+
+`.grid-row` This defines where a grid row should start. THis grid creates 12 columns, the height of the rows adapt to the content within, and they have a padding of 3px.
+`.grid-right` This defines where content in a row should be placed. `.grid-right` spans 6 columns starting from the 7th column of your row.
+`.grid-left` spans 6 columns starting from the left of your row.
+`.grid-all` uses the entire width of the grid.
+
+### Navbar
+
+The navbar places your logo in the middle and links to content on either side, maintaining a symmetrical and professional style.
+
